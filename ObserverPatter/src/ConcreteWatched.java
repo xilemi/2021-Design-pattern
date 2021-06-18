@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.List;
-
 public class ConcreteWatched implements Watched{
     private List<Watcher> list=new ArrayList<Watcher>();
 
