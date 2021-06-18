@@ -1,5 +1,4 @@
 public class GIFImage extends Image {
-    @Override
     public void parseFile(String fileName) {
         Matrix m=new Matrix();
         imp.doPaint(m);
